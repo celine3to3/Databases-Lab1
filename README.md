@@ -30,6 +30,7 @@ and add functionality for table creation, inserting, searching and deleting entr
 
 
 Program Output showing insertion, deletion, and accessing information by year
+
 ![lab1 output1](https://user-images.githubusercontent.com/121079918/210129432-0c14c651-2c92-483d-b63f-10649b699d96.png)
 
 ![lab1 output 2](https://user-images.githubusercontent.com/121079918/210129436-a7f69b42-5b2b-4963-880e-ec82db51f2fe.png)
