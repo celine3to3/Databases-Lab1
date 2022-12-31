@@ -1,24 +1,28 @@
 # Databases-Lab1
 
-Data Files:Use BS4, Regular Expressions or Pandas to read in the two data files for this assignment:
+Uses Pandas to read in the two data files:
+Data Files:Use BS4, Regular Expressions or Pandas to read in the two data files:
 
 Co2.html:
 <TBODY><TR><TD>2002</TD><TD>4</TD><TD>2002.292</TD>...
 <TBODY><TR><TD>2002</TD><TD>5</TD><TD>2002.375</TD>...
 <TBODY><TR><TD>2002</TD><TD>6</TD><TD>2002.458</TD>...
 ...
+
 SeaLevel.csv
 2002.3797,3.43000,1.23000,,
 2002.4069,1.13000,0.33000,,
 2002.4340,-5.67000,-2.17000,,
 ...
 
-Where necessary, reduce the data from either Monthly or Daily to Annual data.  Use Python iterators and reducers to handle converting the data to Annual data. Store the data in a Pandas Dataframe.
+Uses Python iterators and reducers to handle converting Monthly or Daily to Annual data.
+
+Data is stored in a Pandas Dataframe.
 
 
 Database:
 
-Store the Dataframes in an SQLite data base.  Design a class to interface to the SQLite database:
+Stores the Dataframes in an SQLite data base.  Uses a class to interface to the SQLite database:
 
     class Database:
         def __init__(self):
@@ -26,7 +30,7 @@ Store the Dataframes in an SQLite data base.  Design a class to interface to the
 
             ...
 
-and add functionality for table creation, inserting, searching and deleting entries in the database.  
+Class has functionality for table creation, inserting, searching and deleting entries in the database.  
 
 
 Program Output showing insertion, deletion, and accessing information by year
