@@ -38,5 +38,6 @@ Program Output showing insertion, deletion, and accessing information by year
 ![lab1 output 3](https://user-images.githubusercontent.com/121079918/210129434-b50a94b6-d1f3-4595-90ba-1b248342066f.png)
 
 Database preview
+
 ![lab1 database preview](https://user-images.githubusercontent.com/121079918/210129575-1099927b-7c1c-4f87-8a50-d805e0c7505b.png)
 
