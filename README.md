@@ -1,7 +1,7 @@
 # Databases-Lab1
 
-Uses Pandas to read in the two data files:
-Data Files:Use BS4, Regular Expressions or Pandas to read in the two data files:
+Uses Pandas and BS4 to read in the two data files:
+
 
 Co2.html:
 <TBODY><TR><TD>2002</TD><TD>4</TD><TD>2002.292</TD>...
@@ -15,9 +15,10 @@ SeaLevel.csv
 2002.4340,-5.67000,-2.17000,,
 ...
 
-Uses Python iterators and reducers to handle converting Monthly or Daily to Annual data.
+Both files have monthly/daily data.
+Python iterators and reducers are used to handle converting data to annual.
 
-Data is stored in a Pandas Dataframe.
+Data is stored in a Pandas Dataframe after getting converted. Users can select a year to view the data for.
 
 
 Database:
