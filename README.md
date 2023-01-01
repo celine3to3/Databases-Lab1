@@ -45,6 +45,7 @@ Program Output showing insertion, deletion, and accessing information by year
 ![lab1 output 3](https://user-images.githubusercontent.com/121079918/210129434-b50a94b6-d1f3-4595-90ba-1b248342066f.png)
 
 Database preview
-**TOPEX/Poseidon Sea Level data begins at 1992
+
+*TOPEX/Poseidon Sea Level data begins at 1992*
 ![lab1 database preview](https://user-images.githubusercontent.com/121079918/210161802-665118cf-7c28-441f-8783-45c66058d9ec.png)
 
